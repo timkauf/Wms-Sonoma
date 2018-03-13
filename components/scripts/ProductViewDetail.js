@@ -1,7 +1,6 @@
 //ProductViewDetail.js
 
 const getProdDetHtml = (product) => {
-
   const flagsArr = product.getFlags();
   let flagsStr = '';
   flagsArr.forEach(flag => {

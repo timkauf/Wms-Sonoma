@@ -1031,7 +1031,7 @@
       "links": {
         "www": "https://www.westelm.com/products/silk-watercolor-pillow-covers-t4491/"
       },
-      "price": {
+      "priceRange": {
         "regular": 29,
         "selling": 29
       },
@@ -1098,7 +1098,7 @@
       "links": {
         "www": "https://www.westelm.com/products/crewel-ombre-pillow-covers-t4442/"
       },
-      "price": {
+      "priceRange": {
         "regular": 29,
         "selling": 29
       },
@@ -1161,7 +1161,7 @@
       "links": {
         "www": "https://www.westelm.com/products/blocked-ikat-silk-pillow-covers-t4436/"
       },
-      "price": {
+      "priceRange": {
         "regular": 29,
         "selling": 29
       },
@@ -1219,7 +1219,7 @@
       "links": {
         "www": "https://www.westelm.com/products/wallace-sewell-crewel-spliced-shapes-pillow-cover-t4495/"
       },
-      "price": {
+      "priceRange": {
         "regular": 29,
         "selling": 29
       },
@@ -1282,7 +1282,7 @@
       "links": {
         "www": "https://www.westelm.com/products/blurred-ikat-stripe-silk-pillow-covers-t4439/"
       },
-      "price": {
+      "priceRange": {
         "regular": 29,
         "selling": 29
       },
@@ -1340,7 +1340,7 @@
       "links": {
         "www": "https://www.westelm.com/products/penelope-nightstand-oyster-h3040/"
       },
-      "price": {
+      "priceRange": {
         "regular": 199,
         "selling": 169,
         "type": "special"
@@ -1422,7 +1422,7 @@
       "links": {
         "www": "https://www.westelm.com/products/penelope-nightstand-oyster-marble-h3041/"
       },
-      "price": {
+      "priceRange": {
         "regular": 349,
         "selling": 296,
         "type": "special"
@@ -1513,7 +1513,7 @@
       "links": {
         "www": "https://www.westelm.com/products/penelope-3-drawer-dresser-oyster-marble-h3042/"
       },
-      "price": {
+      "priceRange": {
         "regular": 699,
         "selling": 594,
         "type": "special"
@@ -1622,7 +1622,7 @@
       "links": {
         "www": "https://www.westelm.com/products/penelope-narrow-5-drawer-dresser-oyster-marble-h3043/"
       },
-      "price": {
+      "priceRange": {
         "regular": 899,
         "selling": 764,
         "type": "special"
@@ -1704,7 +1704,7 @@
       "links": {
         "www": "https://www.westelm.com/products/penelope-6-drawer-dresser-acorn-marble-h3044/"
       },
-      "price": {
+      "priceRange": {
         "regular": 1299,
         "selling": 1104,
         "type": "special"

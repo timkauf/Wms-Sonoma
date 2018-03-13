@@ -11,11 +11,23 @@ class ProductModel {
   }
 
   getPriceRangeRegular() {
-    return `$${this.priceRange.regular.low} - $${this.priceRange.regular.high}`;
+    if(!this.priceRange.hasOwnProperty('regular')) {
+      return '';
+    }
+    if(this.priceRange.regular.hasOwnProperty('low')) {
+      return `$${this.priceRange.regular.low} - $${this.priceRange.regular.high}`;
+    }
+    return `$${this.priceRange.regular}`;
   }
   
   getPriceRangeSelling() {
-    return `Special $${this.priceRange.selling.low} - $${this.priceRange.selling.high}`;
+    if(!this.priceRange.hasOwnProperty('selling')) {
+      return '';
+    }
+    if(this.priceRange.selling.hasOwnProperty('low')) {
+      return `Special $${this.priceRange.selling.low} - $${this.priceRange.selling.high}`;
+    }
+    return `$${this.priceRange.selling}`;
   }
 
   getFlags() {
