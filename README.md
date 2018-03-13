@@ -1,8 +1,8 @@
 Williams Sonoma
 ===============
-##Code Challenge Project
+Code Challenge Project
 ------------------------
-###by Tim Kaufman
+by Tim Kaufman
 =================
 
 1. Download or git clone the files
