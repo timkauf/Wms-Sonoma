@@ -1,6 +1,9 @@
-#Williams Sonoma 
+Williams Sonoma
+===============
 ##Code Challenge Project
+------------------------
 ###by Tim Kaufman
+=================
 
 1. Download or git clone the files
 2. Run a web server; a simple one is the http-server NPM module
